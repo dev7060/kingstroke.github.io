@@ -1,2 +1,2 @@
 # OP_WEB_PRJS
-https://kingstroke.github.io/
+<a href="https://kingstroke.github.io" target="_blank">https://kingstroke.github.io</a>
